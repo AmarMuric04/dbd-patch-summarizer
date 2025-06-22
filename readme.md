@@ -39,8 +39,8 @@ Make sure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone 
-    cd <your-repository-folder>
+    git clone https://github.com/AmarMuric04/dbd-patch-summarizer
+    cd dbd-patch-summarizer
     ```
 
 2.  **Install dependencies:**
