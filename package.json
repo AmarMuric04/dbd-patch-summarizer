@@ -28,8 +28,7 @@
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "@types/cors": "^2.8.18",
-    "cors": "^2.8.5",
-    "express-rate-limit": "^7.5.0",
-    "mongoose": "^8.15.1"
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5"
   }
 }
